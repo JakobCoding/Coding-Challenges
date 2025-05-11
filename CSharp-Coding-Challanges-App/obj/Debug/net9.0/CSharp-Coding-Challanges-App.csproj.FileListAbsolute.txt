@@ -1,0 +1,14 @@
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\bin\Debug\net9.0\CSharp-Coding-Challanges-App.exe
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\bin\Debug\net9.0\CSharp-Coding-Challanges-App.deps.json
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\bin\Debug\net9.0\CSharp-Coding-Challanges-App.runtimeconfig.json
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\bin\Debug\net9.0\CSharp-Coding-Challanges-App.dll
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\bin\Debug\net9.0\CSharp-Coding-Challanges-App.pdb
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.AssemblyInfoInputs.cache
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.AssemblyInfo.cs
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.csproj.CoreCompileInputs.cache
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.dll
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\refint\CSharp-Coding-Challanges-App.dll
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.pdb
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\CSharp-Coding-Challanges-App.genruntimeconfig.cache
+C:\Users\Jleno\source\repos\Coding-Challanges\CSharp-Coding-Challanges-App\obj\Debug\net9.0\ref\CSharp-Coding-Challanges-App.dll
