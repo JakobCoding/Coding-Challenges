@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "CSharp-Coding-Challanges-App/1.0.0": {
+      "V2.0/1.0.0": {
         "runtime": {
-          "CSharp-Coding-Challanges-App.dll": {}
+          "V2.0.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharp-Coding-Challanges-App/1.0.0": {
+    "V2.0/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\CSharp-Coding-Challanges-App\\CSharp-Coding-Challanges-App.csproj": {}
+    "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\Basic-Nameprogram\\V2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\CSharp-Coding-Challanges-App\\CSharp-Coding-Challanges-App.csproj": {
+    "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\Basic-Nameprogram\\V2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\CSharp-Coding-Challanges-App\\CSharp-Coding-Challanges-App.csproj",
-        "projectName": "CSharp-Coding-Challanges-App",
-        "projectPath": "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\CSharp-Coding-Challanges-App\\CSharp-Coding-Challanges-App.csproj",
+        "projectUniqueName": "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\Basic-Nameprogram\\V2.0.csproj",
+        "projectName": "V2.0",
+        "projectPath": "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\Basic-Nameprogram\\V2.0.csproj",
         "packagesPath": "C:\\Users\\Jleno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\CSharp-Coding-Challanges-App\\obj\\",
+        "outputPath": "C:\\Users\\Jleno\\source\\repos\\Coding-Challanges\\Basic-Nameprogram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
